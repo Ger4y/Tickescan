@@ -1,0 +1,7 @@
+{
+  "name": "Smart Ticket Scanner",
+  "description": "AI-powered receipt scanner that extracts details and saves them to Google Sheets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
